@@ -1,3 +1,4 @@
+<!-- Profile README for Binborg1 -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=200&section=header&text=Hi%2C%20I'm%20Binborg1%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Systems%20Engineering%20%E2%80%A2%20University%20of%20Regina&descSize=18&descAlignY=58" width="100%" alt="banner"/>
