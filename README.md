@@ -14,7 +14,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 I'm **Aubin Chriss Izere**, a 4th-year **Software Systems Engineering** student at the **University of Regina**
-- 🔭 Currently working with **embedded systems** — STM32 / ARM Cortex-M, bare-metal C and assembly
+- 🔭 Currently working with **embedded systems**: STM32 / ARM Cortex-M, bare-metal C and assembly
 - 🌐 Also into **Linux system administration**, networking, and server configuration
 - 🌱 Growing my skills in **software testing & validation** and full-stack development
 - 💬 Ask me about **C, Python, embedded systems, or Linux**
@@ -26,11 +26,7 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,matlab&perline=8" alt="languages"/>
-
-**Learning & Exploring** <sub>— the most in-demand languages for engineers in 2026</sub>
-
-<img src="https://skillicons.dev/icons?i=ts,go,rust,cs&perline=4" alt="learning"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,react,go,rust,cs,html,css,matlab&perline=7" alt="languages"/>
 
 **Tools & Platforms**
 
