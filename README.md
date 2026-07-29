@@ -42,10 +42,13 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Binborg1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&rank_icon=github" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binborg1&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages"/>
+<img src="https://raw.githubusercontent.com/Binborg1/Binborg1/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="800" alt="Profile details"/>
 
-<img src="https://streak-stats.demolab.com?user=Binborg1&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub streak"/>
+<img src="https://raw.githubusercontent.com/Binborg1/Binborg1/main/profile-summary-card-output/tokyonight/3-stats.svg" width="48%" alt="GitHub stats"/>
+<img src="https://raw.githubusercontent.com/Binborg1/Binborg1/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="48%" alt="Top languages by repo"/>
+
+<img src="https://raw.githubusercontent.com/Binborg1/Binborg1/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48%" alt="Top languages by commit"/>
+<img src="https://raw.githubusercontent.com/Binborg1/Binborg1/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="48%" alt="Most productive time"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Binborg1&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" alt="Contribution graph"/>
 
